@@ -1,7 +1,7 @@
 package me.flashyreese.mods.sodiumextra.mixin.compat;
 
 import me.flashyreese.mods.sodiumextra.client.SodiumExtraClientMod;
-import me.flashyreese.mods.sodiumextra.client.gui.SuggestRSOScreen;
+//import me.flashyreese.mods.sodiumextra.client.gui.SuggestRSOScreen;
 import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.client.gui.screen.Screen;
 import net.minecraft.client.gui.screen.TitleScreen;
